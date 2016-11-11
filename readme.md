@@ -1,31 +1,8 @@
-# Jekyll Starter
+# Getting Going with Jekyll Workshop Nov, 10, 2016
 
 [Presentation on Google Docs](https://docs.google.com/presentation/d/1XRW5y-Rarne05XJZzksuklwe5FicQVVYrHVduQ015hU/edit?usp=sharing)
 
-[Exercise Snippets Gist](https://gist.github.com/budparr/64ef15890fe97eb4e4bcaa5b029a91e5)
-
-##  Jekyll starter
-
-
-## Install Bundler
-
-$ gem install bundler  
-http://bundler.io/
-
-
-## Get the Repo
-
-Fork the repo on github.com (can set up gh-pages here) and copy URL to clone  
-$ cd Documents/github/projects (this can be wherever you want to store files, not on dropbox)  
-$ git clone https://github.com/budparr/jekyll-starter-your-fork.git  
-$ cd jekyll-starter  
-Open in your text editor  
-
-
-## Initialize Jekyll
-$ bundler install  
-$ bundle exec jekyll serve -w  
-Go to http://localhost:4000/ in your browser
+[Exercise Snippets Gist (this will be for part two)](https://gist.github.com/budparr/64ef15890fe97eb4e4bcaa5b029a91e5)
 
 
 
