@@ -1,4 +1,4 @@
-# Getting Going with Jekyll Workshop Nov, 10, 2016
+# Getting Going with Jekyll Workshop 11/10, 12/08
 
 [Presentation on Google Docs](https://docs.google.com/presentation/d/1XRW5y-Rarne05XJZzksuklwe5FicQVVYrHVduQ015hU/edit?usp=sharing)
 
