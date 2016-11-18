@@ -1,6 +1,6 @@
 # Getting Going with Jekyll Workshop 11/10, 12/08
 
-[Presentation on Google Docs](https://docs.google.com/presentation/d/1XRW5y-Rarne05XJZzksuklwe5FicQVVYrHVduQ015hU/edit?usp=sharing)
+[Presentation for Workshop I on Google Docs](https://docs.google.com/presentation/d/1XRW5y-Rarne05XJZzksuklwe5FicQVVYrHVduQ015hU/edit?usp=sharing)
 
 [Exercise Snippets Gist (this will be for part two)](https://gist.github.com/budparr/64ef15890fe97eb4e4bcaa5b029a91e5)
 
